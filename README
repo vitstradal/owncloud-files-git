@@ -1,0 +1,4 @@
+
+This requires `files_external` extension enabled. And add one more "remote" type: Git.
+It is like `Local`, git repository must be non-bare, changes are commited.
+
