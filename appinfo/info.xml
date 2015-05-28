@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<info>
+	<id>files_git</id>
+	<name>External git storage support</name>
+	<description>
+	</description>
+	<licence>GPL</licence>
+	<author>vitas@matfyz.cz</author>
+	<shipped>true</shipped>
+	<documentation>
+		<admin>admin-external-storage</admin>
+	</documentation>
+	<rememberlogin>false</rememberlogin>
+	<types>
+		<filesystem/>
+	</types>
+	<ocsid>46112</ocsid>
+
+	<dependencies>
+		<owncloud min-version="8" />
+	</dependencies>
+</info>
