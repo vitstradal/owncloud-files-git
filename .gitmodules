@@ -1,0 +1,3 @@
+[submodule "3rdparty/PHP-Stream-Wrapper-for-Git"]
+	path = 3rdparty/PHP-Stream-Wrapper-for-Git
+	url = https://github.com/teqneers/PHP-Stream-Wrapper-for-Git.git
